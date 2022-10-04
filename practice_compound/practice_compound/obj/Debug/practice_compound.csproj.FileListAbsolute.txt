@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\practice_compound\practice_compound\bin\Debug\practice_compound.exe.config
+C:\Users\mac\source\repos\practice_compound\practice_compound\bin\Debug\practice_compound.exe
+C:\Users\mac\source\repos\practice_compound\practice_compound\bin\Debug\practice_compound.pdb
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.Form1.resources
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.Properties.Resources.resources
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.csproj.GenerateResource.cache
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.exe
+C:\Users\mac\source\repos\practice_compound\practice_compound\obj\Debug\practice_compound.pdb

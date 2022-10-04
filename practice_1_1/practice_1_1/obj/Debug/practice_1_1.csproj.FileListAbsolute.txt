@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\bin\Debug\practice_1_1.exe.config
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\bin\Debug\practice_1_1.exe
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\bin\Debug\practice_1_1.pdb
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\obj\Debug\practice_1_1.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\obj\Debug\practice_1_1.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\obj\Debug\practice_1_1.exe
+C:\Users\mac\source\repos\practice_1_1\practice_1_1\obj\Debug\practice_1_1.pdb

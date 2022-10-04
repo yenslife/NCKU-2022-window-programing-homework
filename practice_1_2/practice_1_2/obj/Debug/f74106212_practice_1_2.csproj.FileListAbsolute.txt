@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\bin\Debug\f74106212_practice_1_2.exe.config
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\bin\Debug\f74106212_practice_1_2.exe
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\bin\Debug\f74106212_practice_1_2.pdb
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\obj\Debug\f74106212_practice_1_2.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\obj\Debug\f74106212_practice_1_2.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\obj\Debug\f74106212_practice_1_2.exe
+C:\Users\mac\source\repos\f74106212_practice_1_2\f74106212_practice_1_2\obj\Debug\f74106212_practice_1_2.pdb
